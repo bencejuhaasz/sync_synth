@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MixxxMIDIPreset mixxxVersion="2.0.0+" schemaVersion="1">
+    <info>
+        <name>SyncSynth</name>
+        <author>bencejuhaasz</author>
+        <description>SyncSynth</description>
+        <forums>https://</forums>
+        <wiki>http://</wiki>
+    </info>
+    <controller id="midi_for_light Control">
+        <scriptfiles>
+            <file filename="sync_synth-scripts.js" functionprefix="SyncSynth"/>
+        </scriptfiles>
+
+        <controls>
+        </controls>
+
+        <outputs>
+        </outputs>
+    </controller>
+</MixxxMIDIPreset>
