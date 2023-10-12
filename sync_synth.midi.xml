@@ -7,7 +7,7 @@
         <forums>https://</forums>
         <wiki>http://</wiki>
     </info>
-    <controller id="midi_for_light Control">
+    <controller id="sync_synth">
         <scriptfiles>
             <file filename="sync_synth-scripts.js" functionprefix="SyncSynth"/>
         </scriptfiles>
